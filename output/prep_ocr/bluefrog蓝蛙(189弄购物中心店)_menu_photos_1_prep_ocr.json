@@ -1,0 +1,361 @@
+[
+    {
+        "chinese_name": [
+            "芒果",
+            "沙拉",
+            "98"
+        ],
+        "english_name": [
+            "Mango",
+            "Shrimp",
+            "Salad",
+            "s",
+            "68",
+            "/"
+        ],
+        "chinese_description": [
+            [
+                "格",
+                "新鲜",
+                "芒果",
+                "的",
+                "芒果",
+                ","
+            ]
+        ],
+        "english_description": [
+            [
+                ""
+            ]
+        ],
+        "raw_text": [
+            "大",
+            "芒果",
+            "沙拉",
+            "",
+            "",
+            "98",
+            "Mango",
+            "Shrimp",
+            "Salad",
+            "s",
+            "",
+            "",
+            "68",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "/",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "士",
+            "",
+            "格",
+            "配",
+            "用",
+            "新鲜",
+            "芒果",
+            "特",
+            "的",
+            "",
+            "",
+            "芒果",
+            "",
+            ",",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "easned",
+            "shimp",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "/",
+            "3pc",
+            "",
+            "with",
+            "",
+            "avcado",
+            "",
+            "med",
+            "greens",
+            "and",
+            "German",
+            "we",
+            "heese",
+            "",
+            "Served",
+            "with",
+            "homemade",
+            "mang",
+            "dressing",
+            ""
+        ]
+    },
+    {
+        "chinese_name": [
+            "煎",
+            "三文鱼",
+            "西柚",
+            "藜",
+            "麦沙拉",
+            ")",
+            "98"
+        ],
+        "english_name": [
+            "-",
+            "Fried",
+            "Salmon",
+            ",",
+            "Quinoa",
+            "&"
+        ],
+        "chinese_description": [
+            [
+                "三文魚",
+                "西",
+                "羽衣",
+                ",",
+                "甜",
+                "辣",
+                "汁"
+            ]
+        ],
+        "english_description": [
+            [
+                "."
+            ]
+        ],
+        "raw_text": [
+            "煎",
+            "三文鱼",
+            "西柚",
+            "藜",
+            "麦沙拉",
+            "",
+            "",
+            "",
+            "",
+            ")",
+            "",
+            "98",
+            "Pan",
+            "-",
+            "Fried",
+            "Salmon",
+            ",",
+            "Quinoa",
+            "&",
+            "Grapefruit",
+            "Salad",
+            "",
+            "三文魚",
+            "",
+            "",
+            "",
+            "新",
+            "西",
+            "",
+            "羽衣",
+            "甘蓝",
+            "",
+            "",
+            "",
+            "和",
+            "樱桃",
+            "",
+            "",
+            ",",
+            "配",
+            "甜",
+            "辣",
+            "汁",
+            "Pan",
+            "-",
+            "friend",
+            "satmn",
+            "",
+            "105",
+            "",
+            "with",
+            "grapefruit",
+            ",",
+            "kale",
+            "uina",
+            "and",
+            "cherry",
+            "tomato",
+            ".",
+            "Served",
+            "with",
+            "sweet",
+            "and",
+            "spicy",
+            "sauce",
+            "."
+        ]
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "NS"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": [
+            "AD",
+            "",
+            "NS"
+        ]
+    },
+    {
+        "chinese_name": [
+            "配菜"
+        ],
+        "english_name": [
+            "adding"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": [
+            "可选",
+            "更多",
+            "配菜",
+            "ke",
+            "fit",
+            "jour",
+            "",
+            "ay",
+            "adding"
+        ]
+    },
+    {
+        "chinese_name": [
+            "油",
+            "果"
+        ],
+        "english_name": [
+            "Avocado",
+            "(",
+            ")"
+        ],
+        "chinese_description": [
+            [
+                ")"
+            ]
+        ],
+        "english_description": [
+            [
+                "Salmon"
+            ]
+        ],
+        "raw_text": [
+            "",
+            "牛",
+            "油",
+            "果",
+            "6px",
+            "Avocado",
+            "",
+            "",
+            "(",
+            "150g",
+            ")",
+            "Grilled",
+            "Chicken",
+            "Bre",
+            "",
+            "",
+            "三文",
+            "",
+            "",
+            ")",
+            "Smoked",
+            "Salmon"
+        ]
+    },
+    {
+        "chinese_name": [
+            "12"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": [
+            "12"
+        ]
+    },
+    {
+        "chinese_name": [
+            "."
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": [
+            "¥",
+            "25",
+            "¥",
+            "38",
+            "."
+        ]
+    },
+    {
+        "chinese_name": [
+            ""
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": [
+            ""
+        ]
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Salad"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": [
+            "",
+            "E",
+            "Pan",
+            "-",
+            "Fried",
+            "Salmon",
+            "",
+            "uno",
+            "",
+            "Grape",
+            "Salad"
+        ]
+    },
+    {
+        "chinese_name": [
+            "点评"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": [
+            "",
+            "大众",
+            "点评"
+        ]
+    }
+]

@@ -1,0 +1,472 @@
+[
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Chocolate",
+            "Brownie"
+        ],
+        "chinese_description": [
+            [
+                "健康",
+                "蔬果",
+                "杯",
+                "份"
+            ]
+        ],
+        "english_description": [
+            [
+                "Healthy",
+                "Vegetable",
+                "up"
+            ]
+        ],
+        "raw_text": [
+            "Chocolate",
+            "Brownie",
+            "健康",
+            "蔬果",
+            "杯",
+            "份",
+            "Healthy",
+            "Vegetable",
+            "up"
+        ]
+    },
+    {
+        "chinese_name": [
+            "",
+            "曲奇饼",
+            "干",
+            "2",
+            "块",
+            "2"
+        ],
+        "english_name": [
+            "Homemade",
+            "Cookes"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "",
+            "曲奇饼",
+            "干",
+            "2",
+            "块",
+            "2",
+            "Homemade",
+            "Cookes"
+        ]
+    },
+    {
+        "chinese_name": [
+            "等到",
+            "你",
+            ""
+        ],
+        "english_name": [
+            "for",
+            "Two"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "终于",
+            "等到",
+            "你",
+            "",
+            "Set",
+            "for",
+            "Two"
+        ]
+    },
+    {
+        "chinese_name": [
+            "2",
+            "甜品",
+            "2"
+        ],
+        "english_name": [
+            "desserts"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "2",
+            "份",
+            "甜品",
+            "2",
+            "desserts"
+        ]
+    },
+    {
+        "chinese_name": [
+            "",
+            "份",
+            "小食",
+            "6"
+        ],
+        "english_name": [
+            "snacks"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "",
+            "份",
+            "小食",
+            "6",
+            "snacks"
+        ]
+    },
+    {
+        "chinese_name": [
+            "巧克力",
+            "布朗尼",
+            "1",
+            "份"
+        ],
+        "english_name": [
+            "Chocolate",
+            "Brownie"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "巧克力",
+            "布朗尼",
+            "1",
+            "份",
+            "Chocolate",
+            "Brownie"
+        ]
+    },
+    {
+        "chinese_name": [
+            "牛肉",
+            "迷你",
+            "汉堡",
+            "2",
+            "个",
+            "2"
+        ],
+        "english_name": [
+            "Beef",
+            "Sliders"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "牛肉",
+            "迷你",
+            "汉堡",
+            "2",
+            "个",
+            "2",
+            "Beef",
+            "Sliders"
+        ]
+    },
+    {
+        "chinese_name": [
+            "火腿",
+            "烤",
+            "面包",
+            "片",
+            "2",
+            "块",
+            "2"
+        ],
+        "english_name": [
+            "Prosciutto",
+            "Canapes"
+        ],
+        "chinese_description": [
+            [
+                "时令",
+                "水果",
+                "杯",
+                "1",
+                "份"
+            ]
+        ],
+        "english_description": [
+            [
+                "Seasonal",
+                "Fruits"
+            ]
+        ],
+        "raw_text": [
+            "帕玛",
+            "火腿",
+            "烤",
+            "面包",
+            "片",
+            "2",
+            "块",
+            "2",
+            "Prosciutto",
+            "Canapes",
+            "时令",
+            "水果",
+            "杯",
+            "1",
+            "份",
+            "Seasonal",
+            "Fruits"
+        ]
+    },
+    {
+        "chinese_name": [
+            "饮品",
+            "任选",
+            "2",
+            "杯",
+            "2"
+        ],
+        "english_name": [
+            "Selected",
+            "Drinks"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "指定",
+            "饮品",
+            "任选",
+            "2",
+            "杯",
+            "2",
+            "Selected",
+            "Drinks"
+        ]
+    },
+    {
+        "chinese_name": [
+            "经典",
+            "纽约",
+            "",
+            "",
+            ""
+        ],
+        "english_name": [
+            "Classic",
+            "Cheese",
+            "Cake"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "经典",
+            "纽约",
+            "",
+            "",
+            "",
+            "Classic",
+            "New",
+            "York",
+            "Cheese",
+            "Cake"
+        ]
+    },
+    {
+        "chinese_name": [
+            "时令",
+            "水",
+            "",
+            ""
+        ],
+        "english_name": [
+            "Seasonal",
+            "Fruits"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "时令",
+            "水",
+            "",
+            "",
+            "Seasonal",
+            "Fruits"
+        ]
+    },
+    {
+        "chinese_name": [
+            "饮品",
+            "任选",
+            ""
+        ],
+        "english_name": [
+            "a",
+            "Selected",
+            "Drink"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "指定",
+            "饮品",
+            "任选",
+            "",
+            "a",
+            "Selected",
+            "Drink"
+        ]
+    },
+    {
+        "chinese_name": [
+            "2",
+            "杯",
+            "指定",
+            "饮品",
+            "2"
+        ],
+        "english_name": [
+            "drinks"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "2",
+            "杯",
+            "指定",
+            "饮品",
+            "2",
+            "drinks"
+        ]
+    },
+    {
+        "chinese_name": [
+            "128"
+        ],
+        "english_name": [],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "128",
+            "rmb"
+        ]
+    },
+    {
+        "chinese_name": [
+            "经典",
+            "纽约",
+            "芝士",
+            "蛋糕",
+            "1",
+            "份"
+        ],
+        "english_name": [
+            "Classic",
+            "Cheese",
+            "Cake"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "经典",
+            "纽约",
+            "芝士",
+            "蛋糕",
+            "1",
+            "份",
+            "Classic",
+            "New",
+            "York",
+            "Cheese",
+            "Cake"
+        ]
+    },
+    {
+        "chinese_name": [
+            "意大利",
+            "烤",
+            "面包",
+            "片",
+            "2",
+            "块",
+            "2"
+        ],
+        "english_name": [],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "意大利",
+            "烤",
+            "面包",
+            "片",
+            "2",
+            "块",
+            "2",
+            "Bruschettas"
+        ]
+    },
+    {
+        "chinese_name": [
+            "健康",
+            "蔬果",
+            "杯",
+            "1",
+            "份"
+        ],
+        "english_name": [
+            "Healthy",
+            "Vegetable",
+            "Cup"
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "健康",
+            "蔬果",
+            "杯",
+            "1",
+            "份",
+            "Healthy",
+            "Vegetable",
+            "Cup"
+        ]
+    },
+    {
+        "chinese_name": [
+            "手工",
+            "曲奇饼",
+            "干",
+            "2",
+            "块",
+            ""
+        ],
+        "english_name": [
+            "Homemade",
+            "Cookies",
+            "."
+        ],
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "手工",
+            "曲奇饼",
+            "干",
+            "2",
+            "块",
+            "",
+            "Homemade",
+            "Cookies",
+            "."
+        ]
+    },
+    {
+        "chinese_name": [
+            "义"
+        ],
+        "english_name": "",
+        "chinese_description": "",
+        "english_description": "",
+        "raw_text": [
+            "义",
+            "大众",
+            "点评"
+        ]
+    }
+]
